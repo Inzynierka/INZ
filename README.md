@@ -1,2 +1,0 @@
-# INZ
-Wypożyczalnia lawet
